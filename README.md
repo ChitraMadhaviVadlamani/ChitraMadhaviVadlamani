@@ -13,14 +13,14 @@
 ####
  
 <!--<img align = "left" src="https://raw.githubusercontent.com/prajwalpatankar/prajwalpatankar/master/gif1.gif"  width="200" height="185" alt="Hello!">	-->
-<!--![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true)-->
+<!--![Chitra's github stats](https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact)-->
 
-<a href="https://github.com/prajwalpatankar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact" />
+<a href="https://github.com/ChitraMadhaviVadlamani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraMadhaviVadlamani&theme=cobalt&langs_count=8&layout=compact" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/prajwalpatankar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalpatankar&show_icons=true&theme=cobalt&count_private=true" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ChitraMadhaviVadlamani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChitraMadhaviVadlamani&show_icons=true&theme=cobalt&count_private=true" />
 </a>
 
 
