@@ -17,7 +17,7 @@
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact)-->
 
 <a href="https://github.com/ChitraMadhaviVadlamani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitraMadhaviVadlamani&theme=cobalt&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpatankar&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ChitraMadhaviVadlamani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChitraMadhaviVadlamani&show_icons=true&theme=cobalt&count_private=true" />
